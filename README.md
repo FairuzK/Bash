@@ -4,13 +4,13 @@ Below are some of the script challenges with comments explaining what the code d
 ### Challenge 1: Basic Arithmetic Calculator.
 A Script takes two numbers from the user and performs basic arithmetic operations. (Addition, Subtraction, Division, Multiplication)
 Requirements
-#. Prompt user for two numbers
+. Prompt the user for two numbers
 
-#.Perform all four operations
+.Perform all four operations
 
-#.Display the results
+.Display the results
 
-#.Handle division by zero
+.Handle division by zero
 
 
 Example output:
